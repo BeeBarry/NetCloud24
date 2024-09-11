@@ -1,0 +1,15 @@
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/OOP Exercises /OOP Exercises /bin/Debug/net8.0/OOP Exercises
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/OOP Exercises /OOP Exercises /bin/Debug/net8.0/OOP Exercises.deps.json
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/OOP Exercises /OOP Exercises /bin/Debug/net8.0/OOP Exercises.runtimeconfig.json
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/OOP Exercises /OOP Exercises /bin/Debug/net8.0/OOP Exercises.dll
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/OOP Exercises /OOP Exercises /bin/Debug/net8.0/OOP Exercises.pdb
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/OOP Exercises /OOP Exercises /obj/Debug/net8.0/OOP Exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/OOP Exercises /OOP Exercises /obj/Debug/net8.0/OOP Exercises.AssemblyInfoInputs.cache
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/OOP Exercises /OOP Exercises /obj/Debug/net8.0/OOP Exercises.AssemblyInfo.cs
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/OOP Exercises /OOP Exercises /obj/Debug/net8.0/OOP Exercises.csproj.CoreCompileInputs.cache
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/OOP Exercises /OOP Exercises /obj/Debug/net8.0/OOP Exercises.sourcelink.json
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/OOP Exercises /OOP Exercises /obj/Debug/net8.0/OOP Exercises.dll
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/OOP Exercises /OOP Exercises /obj/Debug/net8.0/refint/OOP Exercises.dll
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/OOP Exercises /OOP Exercises /obj/Debug/net8.0/OOP Exercises.pdb
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/OOP Exercises /OOP Exercises /obj/Debug/net8.0/OOP Exercises.genruntimeconfig.cache
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/OOP Exercises /OOP Exercises /obj/Debug/net8.0/ref/OOP Exercises.dll
