@@ -1,6 +1,6 @@
 ﻿// This is a library system program that manages books, loanees and loans in a library.
 
-/*public class Library
+public class Library
 {
     private List<Book> Books  = new List<Book>();
     private List<LibraryUser> Users = new List<LibraryUser>();
@@ -54,10 +54,10 @@
         public Book LoanedBook { get; set; }
         public LibraryUser Loanee { get; set; }
     }
-*/
 
 
-/*
+// This is a shopping and shoppingcart program
+
 public class Product
 {
     public string Name { get; set; }
@@ -133,7 +133,9 @@ public class ShoppingCart
         items.Clear();
     }
 }
-*/
+
+
+// This is a mage Vs warrior mini-game where they take turns to defeat each other.
 
 public class Character
 {

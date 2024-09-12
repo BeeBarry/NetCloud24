@@ -1,7 +1,9 @@
 using System;
 namespace OOP_Exercises;
 
-/*
+
+// This runs the library program.
+
 class TestRunner
 {
     static void Main()
@@ -17,10 +19,10 @@ class TestRunner
         library.DisplayInformation();
     }
 }
-*/
 
 
-/*
+// This runs the shopping program.
+
 class Program
 {
     static void Main(string[] args)
@@ -52,7 +54,9 @@ class Program
     }
 
 }
-*/
+
+
+// This runs the mage Vs warrior mini-game.
 
 class Program
 {
