@@ -10,8 +10,8 @@ class TestRunner
     {
         Library library = new Library();
 
-        library.AddBook(new Book { Title = "The Great Gatsby", Author = "F. Scott Fitzgerald", ISBN = "9780743273565" });
-        library.AddBook(new Book { Title = "To Kill a Mockingbird", Author = "Harper Lee", ISBN = "9780446310789" });
+        library.AddBook(new Book { Title = "Gösta Berlings saga", Author = "Selma Lagerlöf", ISBN = "9780143105909" });
+        library.AddBook(new Book { Title = "Lapplandsresan", Author = "Carl Von Linné", ISBN = "9789187593598" });
 
         library.AddUser(new LibraryUser { Name = "John Doe", UserId = "JD001" });
         library.AddUser(new LibraryUser { Name = "Jane Smith", UserId = "JS002" });
