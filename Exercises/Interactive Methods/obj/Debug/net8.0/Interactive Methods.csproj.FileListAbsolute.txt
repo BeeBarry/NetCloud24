@@ -1,0 +1,15 @@
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Interactive Methods/bin/Debug/net8.0/Interactive Methods
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Interactive Methods/bin/Debug/net8.0/Interactive Methods.deps.json
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Interactive Methods/bin/Debug/net8.0/Interactive Methods.runtimeconfig.json
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Interactive Methods/bin/Debug/net8.0/Interactive Methods.dll
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Interactive Methods/bin/Debug/net8.0/Interactive Methods.pdb
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Interactive Methods/obj/Debug/net8.0/Interactive Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Interactive Methods/obj/Debug/net8.0/Interactive Methods.AssemblyInfoInputs.cache
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Interactive Methods/obj/Debug/net8.0/Interactive Methods.AssemblyInfo.cs
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Interactive Methods/obj/Debug/net8.0/Interactive Methods.csproj.CoreCompileInputs.cache
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Interactive Methods/obj/Debug/net8.0/Interactive Methods.sourcelink.json
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Interactive Methods/obj/Debug/net8.0/Interactive Methods.dll
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Interactive Methods/obj/Debug/net8.0/refint/Interactive Methods.dll
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Interactive Methods/obj/Debug/net8.0/Interactive Methods.pdb
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Interactive Methods/obj/Debug/net8.0/Interactive Methods.genruntimeconfig.cache
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Interactive Methods/obj/Debug/net8.0/ref/Interactive Methods.dll
