@@ -1,0 +1,15 @@
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Zoo - Exercise/bin/Debug/net8.0/Zoo - Exercise
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Zoo - Exercise/bin/Debug/net8.0/Zoo - Exercise.deps.json
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Zoo - Exercise/bin/Debug/net8.0/Zoo - Exercise.runtimeconfig.json
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Zoo - Exercise/bin/Debug/net8.0/Zoo - Exercise.dll
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Zoo - Exercise/bin/Debug/net8.0/Zoo - Exercise.pdb
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Zoo - Exercise/obj/Debug/net8.0/Zoo - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Zoo - Exercise/obj/Debug/net8.0/Zoo - Exercise.AssemblyInfoInputs.cache
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Zoo - Exercise/obj/Debug/net8.0/Zoo - Exercise.AssemblyInfo.cs
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Zoo - Exercise/obj/Debug/net8.0/Zoo - Exercise.csproj.CoreCompileInputs.cache
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Zoo - Exercise/obj/Debug/net8.0/Zoo - Exercise.sourcelink.json
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Zoo - Exercise/obj/Debug/net8.0/Zoo - Exercise.dll
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Zoo - Exercise/obj/Debug/net8.0/refint/Zoo - Exercise.dll
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Zoo - Exercise/obj/Debug/net8.0/Zoo - Exercise.pdb
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Zoo - Exercise/obj/Debug/net8.0/Zoo - Exercise.genruntimeconfig.cache
+/Users/bo/Documents/GitHub/NetCloud24/Exercises/Zoo - Exercise/obj/Debug/net8.0/ref/Zoo - Exercise.dll
