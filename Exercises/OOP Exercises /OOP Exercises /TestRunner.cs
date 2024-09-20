@@ -13,8 +13,8 @@ class TestRunner
         library.AddBook(new Book { Title = "Gösta Berlings saga", Author = "Selma Lagerlöf", ISBN = "9780143105909" });
         library.AddBook(new Book { Title = "Lapplandsresan", Author = "Carl Von Linné", ISBN = "9789187593598" });
 
-        library.AddUser(new LibraryUser { Name = "John Doe", UserId = "JD001" });
-        library.AddUser(new LibraryUser { Name = "Jane Smith", UserId = "JS002" });
+        library.AddUser(new LibraryUser { Name = "Astrid Lindgren", UserId = "AL004" });
+        library.AddUser(new LibraryUser { Name = "Erik Hermelin", UserId = "EH007" });
 
         library.DisplayInformation();
     }
